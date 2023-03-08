@@ -1,5 +1,11 @@
 public class Teste_04 {
     /* 
+     * PS: Eu acredito que a ultima parte da questão foi mal formulada pois deu a entender dois possíveis cenários, ela diz o seguinte: "Quando eles se cruzarem na rodovia, qual estará 
+     * mais próximo a cidade de Ribeirão Preto?", tem duas formas de analisar a questão: a primeira seria qual veiculo estaria mais proximo a Ribeirao Preto no momento que se 
+     * cruzassem, contudo quando eles(os veiculos) se cruzarem ambos estarão na mesma distancia da cidade de Ribeirão Preto, logo eu levei em consideração a segunda hipótese, 
+     * "Quando eles se cruzarem na rodovia, qual estará mais próximo a cidade de Ribeirão OU a cidade de Franca?", e foi a partir dessa que fiz a questão.
+     * 
+     * 
      * Primeiro vamos ter que descobrir em que momento de tempo os veículos irão se encontrar, dessa forma utiliza-se a equação do MRU(Movimento Retilineo Uniforme)
      * S(Posição Final) = So(Posição Inicial) + V(Velocidade) * t(tempo)
      * 
